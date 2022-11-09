@@ -5,7 +5,7 @@
 + Description
     + index.php - collector of the page html
     + php
-        + components -  included parts of the page.
+        + components -  included parts of the page
         + data - product_class and triggers of formation the class
         + settings - database options
     + js
